@@ -1,0 +1,77 @@
+/* home section */
+
+.textname {
+    font-size: 76px;
+}
+
+.hellotext {
+    font-size: 25px;
+}
+
+.pTextHome {
+    font-size: 16px;
+}
+
+.btnMyWork:hover {
+    transform: scale(1.1);
+}
+
+
+
+/* about section */
+
+.aboutBG {
+ background:#FCF8E3;
+}
+
+.btnDownloadCV:hover {
+    transform: scale(1.1);
+}
+
+/* services section */
+
+.bgServices {
+    background:#FCF8E3;
+}
+
+
+
+/* portfolio section */
+
+.bgPortfolio {
+    background: rgb(255,255,255);
+background: linear-gradient(0deg, rgba(255,255,255,1) 26%, rgba(252,248,227,1) 100%);
+}
+
+.gallery img {
+    transition: 1s;
+    width: 200px;
+}
+
+.gallery img:hover {
+    filter: grayscale(100%);
+    transform: scale(1.1);
+}
+
+.contactBG {
+    background: #E9ECEF;
+}
+
+/* contact section */
+
+
+.btnEmail:hover {
+    transform: scale(1.2);
+}
+
+
+
+/* footer */
+.myfooter {
+    background: #343A40;
+    color: azure;
+}
+
+
+
+
